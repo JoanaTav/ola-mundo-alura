@@ -1,0 +1,23 @@
+.rodape {
+    background-color: var(--cor-principal);
+    color: var(--branco);
+    padding: 2rem 0;
+    text-align: center; 
+}
+
+.rodape section {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column; 
+}
+
+.rodape ul {
+    display: flex;
+    justify-content: center; 
+    padding: 0;
+    margin: 10px;
+    list-style: none;
+    gap: 1rem; 
+}
+
