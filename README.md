@@ -10,6 +10,9 @@ Projeto desenvolvido durante o curso React:  Desenvolvendo em React Router com J
 
 <h2>Funcionalidades:</h2> 
 <p>Todas as seções (home, posts, sobre mim, 404) são carregadas dinamicamente dentro de uma única página</p>
+<p>Exibição de posts</p>
+<p>Utilização de hooks do React como useState, useEffect, useParams</p>
+<p>Página Sobre Mim com informações sobre o desenvolvedor </p>
 <p>Página error 404 personalizada</p>
 
 
